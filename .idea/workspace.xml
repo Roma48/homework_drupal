@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e85c7a8-baf7-47a4-9404-3595aa18159a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--page.tpl.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--type-page--60.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/zen/style.css" afterPath="$PROJECT_DIR$/sites/all/themes/zen/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/zen/template.php" afterPath="$PROJECT_DIR$/sites/all/themes/zen/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php" afterPath="$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php" />
     </list>
     <ignored path="homework_drupal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page.tpl.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="page.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.6708075" vertical-offset="54" max-vertical-offset="2088">
+            <state line="39" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="25.518518" vertical-offset="1283" max-vertical-offset="2088">
               <folding />
             </state>
           </provider>
@@ -44,7 +37,7 @@
       <file leaf-file-name="template.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="273" column="31" selection-start="10203" selection-end="10203" vertical-scroll-proportion="-9.333333" vertical-offset="4482" max-vertical-offset="13428">
+            <state line="273" column="31" selection-start="10203" selection-end="10203" vertical-scroll-proportion="0.0" vertical-offset="4914" max-vertical-offset="13608">
               <folding />
             </state>
           </provider>
@@ -53,7 +46,7 @@
       <file leaf-file-name="theme.inc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/theme.inc">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2732" column="9" selection-start="102799" selection-end="102799" vertical-scroll-proportion="-6.111111" vertical-offset="48903" max-vertical-offset="53820">
+            <state line="2732" column="9" selection-start="102799" selection-end="102799" vertical-scroll-proportion="0.0" vertical-offset="49176" max-vertical-offset="53928">
               <folding />
             </state>
           </provider>
@@ -62,7 +55,7 @@
       <file leaf-file-name="html.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/html.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="0" selection-start="1764" selection-end="1764" vertical-scroll-proportion="-21.11111" vertical-offset="150" max-vertical-offset="954">
+            <state line="46" column="0" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1062">
               <folding />
             </state>
           </provider>
@@ -80,7 +73,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="932" column="13" selection-start="16507" selection-end="16507" vertical-scroll-proportion="-26.666666" vertical-offset="16056" max-vertical-offset="16992">
+            <state line="932" column="13" selection-start="16507" selection-end="16507" vertical-scroll-proportion="0.0" vertical-offset="16056" max-vertical-offset="16992">
               <folding />
             </state>
           </provider>
@@ -89,7 +82,7 @@
       <file leaf-file-name="page--type-page--60.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--type-page--60.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="17" selection-start="1657" selection-end="1657" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="1926">
+            <state line="39" column="17" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
               <folding />
             </state>
           </provider>
@@ -98,7 +91,7 @@
       <file leaf-file-name="theme-settings.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/theme-settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="262" selection-start="3924" selection-end="3924" vertical-scroll-proportion="-0.6666667" vertical-offset="1602" max-vertical-offset="2394">
+            <state line="90" column="262" selection-start="3924" selection-end="3924" vertical-scroll-proportion="0.0" vertical-offset="1602" max-vertical-offset="2394">
               <folding />
             </state>
           </provider>
@@ -107,17 +100,19 @@
       <file leaf-file-name="page--page.tpl.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--page.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="17" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="1926">
+            <state line="39" column="17" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page--course.tpl.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="page--course.tpl.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="17" selection-start="1254" selection-end="1661" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="2142">
-              <folding />
+            <state line="88" column="23" selection-start="2693" selection-end="2693" vertical-scroll-proportion="0.17267081" vertical-offset="1337" max-vertical-offset="2178">
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,7 +144,6 @@
         <option value="$PROJECT_DIR$/modules/node/node.module" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/node.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/html.tpl.php" />
-        <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page--geekhub.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/views-view---geekhub.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/views-view---geekhub--page.tpl.php" />
@@ -161,15 +155,15 @@
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page--page.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page--type-page--60.tpl.php" />
         <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="25" />
-    <option name="width" value="1282" />
-    <option name="height" value="1000" />
+    <option name="width" value="1280" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -197,6 +191,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -407,7 +402,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,8 +452,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1282" height="1000" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="25" width="1280" height="999" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -474,11 +468,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -498,20 +492,58 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/node.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="31" selection-start="2887" selection-end="3991" vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="2286">
+        <state line="21" column="10" selection-start="735" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/region--footer.tpl.php">
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
+        <state line="932" column="13" selection-start="16507" selection-end="16507" vertical-scroll-proportion="0.0" vertical-offset="16056" max-vertical-offset="16992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--type-page--60.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="17" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/theme-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="262" selection-start="3924" selection-end="3924" vertical-scroll-proportion="0.0" vertical-offset="1602" max-vertical-offset="2394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="17" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="17" selection-start="1254" selection-end="1661" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2250">
           <folding>
-            <marker date="1398863088000" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="31" selection-start="2887" selection-end="3991" vertical-scroll-proportion="0.0" vertical-offset="2052" max-vertical-offset="2286" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/region--footer.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php">
@@ -530,16 +562,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1134">
-          <folding />
-        </state>
+        <state line="36" column="28" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/header-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="31" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1404">
-          <folding />
-        </state>
+        <state line="47" column="31" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1404" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/node.tpl.php">
@@ -558,16 +586,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/GeekHub/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="2178">
-          <folding />
-        </state>
+        <state line="10" column="13" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="2178" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/style.css">
@@ -586,9 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/header-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="31" selection-start="1007" selection-end="2296" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1404">
-          <folding />
-        </state>
+        <state line="69" column="31" selection-start="1007" selection-end="2296" vertical-scroll-proportion="0.0" vertical-offset="1242" max-vertical-offset="1404" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/bartik/bartik.info">
@@ -628,9 +650,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/GeekHub/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/zen.info">
@@ -655,9 +675,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/node/node.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1426" column="43" selection-start="46342" selection-end="46342" vertical-scroll-proportion="0.3512974" vertical-offset="25420" max-vertical-offset="75510">
-          <folding />
-        </state>
+        <state line="1426" column="43" selection-start="46342" selection-end="46342" vertical-scroll-proportion="0.3512974" vertical-offset="25420" max-vertical-offset="75510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/node/node.test">
@@ -680,11 +698,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/region--footer.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360">
-          <folding>
-            <marker date="1398863088000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="14" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/footer.php">
@@ -694,9 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/header-home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="31" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1404">
-          <folding />
-        </state>
+        <state line="47" column="31" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1404" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/node.tpl.php">
@@ -708,85 +720,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../homework3/wp-content/themes/twentyfourteen/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1134">
-          <folding />
-        </state>
+        <state line="36" column="28" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="1134" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/html.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1764" selection-end="1764" vertical-scroll-proportion="-21.11111" vertical-offset="150" max-vertical-offset="954">
+        <state line="46" column="0" selection-start="1764" selection-end="1764" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="1062">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/GeekHub/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="46" selection-start="3779" selection-end="3779" vertical-scroll-proportion="-0.52272725" vertical-offset="2124" max-vertical-offset="2916">
-          <folding />
-        </state>
+        <state line="95" column="46" selection-start="3779" selection-end="3779" vertical-scroll-proportion="-0.52272725" vertical-offset="2124" max-vertical-offset="2916" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--front.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="-18.666666" vertical-offset="648" max-vertical-offset="2178">
-          <folding />
-        </state>
+        <state line="70" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="-18.666666" vertical-offset="648" max-vertical-offset="2178" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/theme-settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="262" selection-start="3924" selection-end="3924" vertical-scroll-proportion="-0.6666667" vertical-offset="1602" max-vertical-offset="2394">
+        <state line="90" column="262" selection-start="3924" selection-end="3924" vertical-scroll-proportion="0.0" vertical-offset="1602" max-vertical-offset="2394">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/includes/theme.inc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2732" column="9" selection-start="102799" selection-end="102799" vertical-scroll-proportion="-6.111111" vertical-offset="48903" max-vertical-offset="53820">
+        <state line="2732" column="9" selection-start="102799" selection-end="102799" vertical-scroll-proportion="0.0" vertical-offset="49176" max-vertical-offset="53928">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="273" column="31" selection-start="10203" selection-end="10203" vertical-scroll-proportion="-9.333333" vertical-offset="4482" max-vertical-offset="13428">
+        <state line="273" column="31" selection-start="10203" selection-end="10203" vertical-scroll-proportion="0.0" vertical-offset="4914" max-vertical-offset="13608">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="932" column="13" selection-start="16507" selection-end="16507" vertical-scroll-proportion="-26.666666" vertical-offset="16056" max-vertical-offset="16992">
+        <state line="932" column="13" selection-start="16507" selection-end="16507" vertical-scroll-proportion="0.0" vertical-offset="16056" max-vertical-offset="16992">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--type-page--60.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="17" selection-start="1657" selection-end="1657" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="1926">
+        <state line="39" column="17" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="17" selection-start="1660" selection-end="1660" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="1926">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="17" selection-start="1254" selection-end="1661" vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="2142">
+        <state line="39" column="17" selection-start="1660" selection-end="1660" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="2034">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="0.6708075" vertical-offset="54" max-vertical-offset="2088">
+        <state line="39" column="17" selection-start="1654" selection-end="1654" vertical-scroll-proportion="25.518518" vertical-offset="1283" max-vertical-offset="2088">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/zen/templates/page--course.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="23" selection-start="2693" selection-end="2693" vertical-scroll-proportion="0.17267081" vertical-offset="1337" max-vertical-offset="2178">
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
