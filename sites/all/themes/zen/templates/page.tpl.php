@@ -58,10 +58,7 @@
     <div id="content" class="column" role="main">
 
 
-        <aside class="sidebars">
-            <?php print $sidebar_first; ?>
-        </aside>
-        <div class="inner">
+
       <a id="main-content"></a>
       <?php print render($title_prefix); ?>
       <?php if ($title): ?>
@@ -82,7 +79,7 @@
 
 
 
-  </div>
+
       </div>
 
 

@@ -7,6 +7,7 @@ body {
 .inner {
     float: right;
     width: 661px;
+    margin-top: 15px;
 }
 
 tbody {
@@ -243,10 +244,7 @@ article header h2 {
     display: none;
 }
 
-.entry-content img {
-    display: block;
-    float: left;
-}
+
 
 .post-thumbnail {
     float: left;
@@ -265,7 +263,7 @@ article header h2 {
 footer {
 
     width: 901px;
-    margin: 0 auto;
+    margin: 100px auto;
     display: block;
 }
 
@@ -328,12 +326,14 @@ h3 {
     color: #eb3580;
 }
 
-#post-33 .entry-content {
-    width: 100%;
-    margin-right: 0px;
+.view--geekhub ul {
+    width: 822px;
+    margin: 0 auto;
+    padding: 0;
+
 }
 
-#post-33 span {
+.view--geekhub .views-field-field-description div {
     display: block;
     font-family: arial;
     font-weight: normal;
@@ -342,44 +342,52 @@ h3 {
     padding-top: 5px;
     color: #f3753e;
     width: 185px;
+    height: 20px;
+    margin-right: 0;
+    text-align: right;
 
 }
 
-#post-33 h3 {
+.view--geekhub .views-field-title a {
     margin: 0px;
     width: 190px;
     display: block;
     float: left;
-
-    margin-top: 50px;
-
-}
-
-#post-33 .no h3 {
+    font-size: 27px;
+    font-weight: normal;
+    color: #eb3580;
+    margin-top: 20px;
+    text-decoration: none;
     text-align: right;
 }
+
 
 #post-33 .yes h3 {
     text-align: left;
 }
 
-#post-33 li {
+.view--geekhub li {
     display: block;
 
     width: 821px;
     height: 185px;
 }
 
-#post-33 .entry-content img {
-    margin-right: 20px;
-    margin-left: 20px;
+
+
+.view--geekhub .views-field-body {
+    display: block;
+    margin-top: 10px;
+    float: right;
+    width: 421px;
 }
 
-#post-33 .about {
+.view--geekhub img {
+    margin-right: 20px;
+    margin-left: 20px;
     display: block;
-    margin-top: 45px;
-    float: left;
-    width: 421px;
+    float: right;
+    margin-top: -20px;
 }
 
 #post-33 .yes .about {
@@ -479,7 +487,7 @@ article header h2 a{
     float: right;
 }
 
-.inner #page-title {
+#page-course .inner #page-title {
     padding: 0 0 18px;
     color: #EA2778;
     font-family: "Trebuchet MS";
@@ -503,7 +511,11 @@ article header h2 a{
     margin-top: -80px;
 }
 
-.single .type-post .entry-content h2 {
+.field-name-field-team-title {
+    margin-top: 25px;
+}
+
+.field-name-field-team-title .field-item {
     clear: both;
     text-align: center;
     font-family: "Trebuchet MS";
@@ -519,13 +531,15 @@ article header h2 a{
     border-bottom: 1px solid #D2DCE1;
 }
 
-#page .node-course .field-name-body .field-item {
+#page-course .node-course .field-name-body .field-item {
     margin: 0px;
     width: 541px;
 }
 
-#page .field-name-field-image-course.field-type-image {
+#page-course .field-name-field-image-course.field-type-image {
     float: right;
+    margin-top: -35px;
+    margin-right: 0;
 }
 
 aside {
@@ -572,35 +586,55 @@ aside ul {
     padding: 0px;
 }
 
-.team {
+.field-name-field-team-course {
     margin: 0px;
     padding: 0px;
+    width: 661px;
+    float: left;
 }
 
-.team li {
+.field-name-field-team-course article {
     width: 661px;
     height: 194px;
     list-style: none;
 }
 
-.team li a img {
-    margin-right: 30px;
+.field-name-field-team-course article .node-readmore {
+    display: none;
 }
 
-.team li h3 {
-    padding: 24px 0 4px;
+.field-name-field-team-course article img {
+    margin-right: 30px;
+    float: left;
+    margin-top: 5px;
+}
+
+.field-name-field-team-course article header h2 {
+    width: 460px;
+    float: right;
+    margin-left: 0;
+    height: 20px;
+}
+
+.field-name-field-team-course article header h2 a {
+
     font-family: "Trebuchet MS";
     font-weight: normal;
     font-size: 20px;
     line-height: 29px;
     color: #EA2678;
 
+    display: block;
+    width: 460px;
+
 }
 
-.team li p {
+.field-name-field-team-course .field-name-body .field-item {
     width: 460px !important;
     float: left !important;
 }
+
+
 
 .front-text {
     text-align: center;
@@ -614,7 +648,7 @@ aside ul {
 
     position: relative;
     z-index: 2;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 
 
@@ -856,4 +890,50 @@ aside ul {
 #wpgmza_map {
     width: 382px !important;
     height: 287px !important;
+}
+
+.view--geekhub .view-content ul li:nth-child(2n) .views-field-body, .view--geekhub .view-content ul li:nth-child(2n) img {
+    float: left;
+    text-align: right;
+}
+
+.view--geekhub .view-content ul li:nth-child(2n) .views-field-title a, .view--geekhub .view-content ul li:nth-child(2n) .views-field-field-description div {
+    float: right;
+    text-align: left;
+}
+
+.page__title {
+    font-family: "Trebuchet MS";
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 0 0 8px;
+    margin: 0 0 27px;
+    border-bottom: 1px solid #a7c3cf;
+}
+
+#page-basic .field-name-field-basic-image {
+    float: left;
+    margin-left: 20px;
+}
+
+#page-basic .field-name-body {
+    width: 529px;
+    float: right;
+    margin-top: -20px;
+    margin-right: 20px;
+}
+
+#page-60 .field-name-body .field-item {
+    width: 500px;
+    float: right;
+}
+
+#page-60 .field-name-body {
+    width: 450px;
+    float: right;
+}
+
+#page-60 img {
+    float: left;
 }

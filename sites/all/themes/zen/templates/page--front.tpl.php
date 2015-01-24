@@ -68,7 +68,7 @@
       <a id="main-content"></a>
 
 
-        <h1 class="page__title title" id="page-title"><?php print $title; ?></h1>
+
 
       <?php print render($title_suffix); ?>
       <?php print $messages; ?>
