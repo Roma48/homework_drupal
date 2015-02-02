@@ -1,0 +1,5 @@
+name = weather
+description = A new block Weather
+package = Weather
+core = 7.x
+files[] = weather.module

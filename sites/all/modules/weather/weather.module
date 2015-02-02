@@ -1,0 +1,35 @@
+<?php
+
+function weather_block_info() {
+    $blocks[ 'weather' ] = array(
+        'info' => "Weather"
+    );
+    return $blocks;
+}
+
+function weather_block_view( $delta = '' ) {
+    switch ($delta) {
+        case 'weather':
+            $block[ 'content' ] = weather_block();
+            break;
+    }
+    return $block;
+}
+
+function weather_block() {
+
+    $weather = simplexml_load_file( 'http://www.eurometeo.ru/ukraina/kiyvska-oblast/kiyiv/export/xml/data/' );
+
+    $output = theme( 'weather', array( 'variable' => "Погода", 'weather' => $weather ) );
+    return $output;
+
+}
+
+function weather_theme() {
+    return array(
+        'weather' => array(
+            'template'  =>  'weather',
+            'variables' =>  ''
+        )
+    );
+}
